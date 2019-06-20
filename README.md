@@ -56,6 +56,18 @@ v3地址：https://github.com/welliamcao/OpsManage/tree/v3
 改成
 #!/usr/bin/python2.6.6
 ```
+```
+ubuntu
+sudo apt-get install libmysqlclient-dev
+sudo apt-get install libjpeg-dev
+sudo apt-get install libxml2-dev libxslt1-dev 
+sudo apt-get install zlib1g-dev
+sudo apt-get install libevent-dev
+sudo apt install python3-dev 
+sudo apt-get install libldap2-dev
+sudo apt-get install libsasl2-dev
+```
+
 二、安装easy_install
 ```
 # wget --no-check-certificate  https://pypi.python.org/packages/f7/94/eee867605a99ac113c4108534ad7c292ed48bf1d06dfe7b63daa51e49987/setuptools-28.0.0.tar.gz#md5=9b23df90e1510c7353a5cf07873dcd22
