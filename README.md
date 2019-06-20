@@ -67,6 +67,7 @@ sudo apt install python3-dev
 sudo apt-get install libldap2-dev
 sudo apt-get install libsasl2-dev
 pip install pyldap==2.4.28
+pip install git
 ```
 
 二、安装easy_install
